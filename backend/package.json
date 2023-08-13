@@ -8,9 +8,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "mongodb": "5.7"
+    "mongodb": "5.7",
+    "mongoose": "^7.4.3"
   },
-  "devDependencies": {},
   "keywords": [],
   "description": ""
 }
